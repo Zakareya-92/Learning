@@ -1,3 +1,3 @@
 <?php
-echo "this is second file 1";
+echo "this is second file";
 ?>
